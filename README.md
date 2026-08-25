@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0231-power-of-two) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Divide and Conquer
@@ -65,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0867-transpose-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
