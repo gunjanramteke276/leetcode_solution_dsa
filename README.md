@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0867-transpose-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/1207-unique-number-of-occurrences) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0344-reverse-string) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Matrix
 |  |
 | ------- |
@@ -74,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+## Sorting
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
