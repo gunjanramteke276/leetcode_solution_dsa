@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0066-plus-one) |
 | [0704-binary-search](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0867-transpose-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/1207-unique-number-of-occurrences) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0231-power-of-two) |
