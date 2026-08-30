@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0136-single-number) |
 | [0704-binary-search](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0867-transpose-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/1207-unique-number-of-occurrences) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/1009-complement-of-base-10-integer) |
