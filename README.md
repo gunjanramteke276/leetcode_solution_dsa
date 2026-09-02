@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0867-transpose-matrix) |
 | [0941-valid-mountain-array](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0941-valid-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/1095-find-in-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Hash Table
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/1095-find-in-mountain-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,8 +131,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/1095-find-in-mountain-array) |
 ## Enumeration
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0845-longest-mountain-in-array) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
