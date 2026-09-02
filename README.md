@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/1095-find-in-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2908-minimum-sum-of-mountain-triplets-i](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/3285-find-indices-of-stable-mountains) |
 ## Hash Table
 |  |
