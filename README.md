@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0704-binary-search) |
 | [0845-longest-mountain-in-array](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0845-longest-mountain-in-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0344-reverse-string) |
 | [0845-longest-mountain-in-array](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0845-longest-mountain-in-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
