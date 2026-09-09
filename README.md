@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0704-binary-search) |
 | [0845-longest-mountain-in-array](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0845-longest-mountain-in-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0169-majority-element) |
 | [1207-unique-number-of-occurrences](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/1207-unique-number-of-occurrences) |
 ## Math
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0169-majority-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## String Matching
 |  |
@@ -155,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0014-longest-common-prefix) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
