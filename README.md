@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0344-reverse-string) |
 | [0845-longest-mountain-in-array](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0845-longest-mountain-in-array) |
+| [0876-middle-of-the-linked-list](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Matrix
 |  |
@@ -169,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
