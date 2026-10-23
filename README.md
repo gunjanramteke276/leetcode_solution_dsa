@@ -175,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0876-middle-of-the-linked-list) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
