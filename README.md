@@ -184,4 +184,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0511-game-play-analysis-i) |
 | [0584-find-customer-referee](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0584-find-customer-referee) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 <!---LeetCode Topics End-->
