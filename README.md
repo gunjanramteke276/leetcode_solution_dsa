@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0169-majority-element) |
 | [1207-unique-number-of-occurrences](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/1207-unique-number-of-occurrences) |
 ## Math
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0344-reverse-string) |
 | [0845-longest-mountain-in-array](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0845-longest-mountain-in-array) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0876-middle-of-the-linked-list) |
 ## Database
@@ -187,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0596-classes-with-at-least-5-students) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
