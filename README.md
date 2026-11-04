@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0013-roman-to-integer) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0231-power-of-two) |
 ## String
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0237-delete-node-in-a-linked-list) |
