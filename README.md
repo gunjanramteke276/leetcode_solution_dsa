@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0704-binary-search) |
 | [0845-longest-mountain-in-array](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0845-longest-mountain-in-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0231-power-of-two) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Divide and Conquer
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0344-reverse-string) |
 | [0845-longest-mountain-in-array](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0845-longest-mountain-in-array) |
