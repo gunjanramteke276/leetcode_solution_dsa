@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0704-binary-search) |
 | [0845-longest-mountain-in-array](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0845-longest-mountain-in-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0268-missing-number) |
 | [1207-unique-number-of-occurrences](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/1207-unique-number-of-occurrences) |
 ## Math
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Divide and Conquer
 |  |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0268-missing-number) |
 | [1009-complement-of-base-10-integer](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/1009-complement-of-base-10-integer) |
 ## Recursion
 |  |
@@ -90,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/1095-find-in-mountain-array) |
@@ -131,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0268-missing-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## String Matching
 |  |
