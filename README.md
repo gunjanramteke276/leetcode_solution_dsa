@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0231-power-of-two) |
+| [2487-remove-nodes-from-linked-list](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/2487-remove-nodes-from-linked-list) |
 ## String
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0020-valid-parentheses) |
+| [2487-remove-nodes-from-linked-list](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/2487-remove-nodes-from-linked-list) |
 ## Database
 |  |
 | ------- |
@@ -214,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/0141-linked-list-cycle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/gunjanramteke276/leetcode_solution_dsa/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
